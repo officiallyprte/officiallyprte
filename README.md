@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @officiallyprte | real name: bea
+- 👋 Hi, I’m @officiallyprte | real name: kamille
 - 👀 I’m interested in computer hardware, software, keyboard making, guitar, piano, and music.
-- 🌱 I’m currently learning coding and I have basic knowledge of Python and Javascript
-- 📫 How to reach me...chairtable#6173 on discord, @PRTE_ on twitter
+- 🌱 I’m currently learning coding and I have basic knowledge of Python, Javascript, and HTML
+- 📫 How to reach me...chairtable#6173 on discord, @twtnikamille on twitter
 
 <!---
 officiallyprte/officiallyprte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
