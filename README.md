@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kamille</h1>
-<h3 align="center">a bs applied mathematics student learning to code from the philippines</h3>
+<h3 align="center">a math student learning to code</h3>
 
 - 📫 How to reach me **prte. on discord**
 
